@@ -7,7 +7,7 @@ import java.io.*;
 public class fmr{
 
 	public static void main(String[] args){
-
+	//this is an example
 
 	for(int i=0; i<args.length; i++){
 
